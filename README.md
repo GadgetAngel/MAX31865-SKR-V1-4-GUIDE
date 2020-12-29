@@ -677,7 +677,7 @@ For **Marlin bugfix-2.0.x version or later versions of Marlin**:
 
 Here is the wiring diagram for the **Adafruit MAX31865 with PT100 via Hardware SPI on the SKR V1.4 board when the default hardware SPI bus is the same as the ONBOARD Micro-SD Card Reader**:
 
-Just use the SPI header labeled "SPI1" located on the SKR V1.4 board to access the micro-SC card Reader's SPI lines. Now all you need is one free I/O pin to specify the Chip Select for the MAX31865.
+Just use the SPI header labeled "SPI1" located on the SKR V1.4 board to access the micro-SD card Reader's SPI lines. Now all you need is one free I/O pin to specify the Chip Select for the MAX31865.
 
 You can click on the below image and the browser will download the .jpg file or you can click on this URL address: https://github.com/GadgetAngel/MAX31865-SKR-V1-4-GUIDE/blob/main/images/One%20PT100%20with%20One%20MAX31865%20boards%20in%20Hardware%20SPI%20with%20SD%20card%20reader%20on%20SKR%20V1.4%20board%20_%20Wiring%20Diagram%20Part4.jpg
 
