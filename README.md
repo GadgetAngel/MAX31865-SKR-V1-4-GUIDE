@@ -80,7 +80,7 @@ The below wiring diagram for PT100 using Analog ADC input **using 3.3 VDC for th
 This is for a hook up to the **TFT connector and 3.3VDC power for the E3D PT100 amplifier board**:
 <img src="https://raw.githubusercontent.com/GadgetAngel/MAX31865-SKR-V1-4-GUIDE/main/images/PT100%20Analog%20hook%20up%20with%203.3VDC%20power%20for%20SKR%20V1.4.jpg?raw=true" />
 
-### Analog Hook up of the E3D's PT100 Amplifier board to SPI header on SKR V1.4 Turbo board using Thermistor Table 20:
+### Analog Hook up of the E3D's PT100 Amplifier board to SPI header on SKR V1.4 board using Thermistor Table 20:
 
 This is for a hook up to the **SPI header and 3.3VDC power for the E3D PT100 amplifier board**:
 <img src="https://raw.githubusercontent.com/GadgetAngel/MAX31865-SKR-V1-4-GUIDE/main/images/PT100%20Analog%20hook%20up%20with%203.3%20VDC%20power%20for%20SKR%20V1.4%20to%20SPI%20header%20P0.26_AD0.3_AOUT_RXD3.jpg?raw=true" />
