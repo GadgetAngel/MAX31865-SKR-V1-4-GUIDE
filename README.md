@@ -76,6 +76,7 @@ This is for a hook up to the **TFT connector and 3.3VDC power for the E3D PT100 
 
 This is for a hook up to the **SPI header and 3.3VDC power for the E3D PT100 amplifier board**:
 <img src="https://raw.githubusercontent.com/GadgetAngel/MAX31865-SKR-V1-4-GUIDE/main/images/PT100%20Analog%20hook%20up%20with%203.3%20VDC%20power%20for%20SKR%20V1.4%20to%20SPI%20header%20P0.26_AD0.3_AOUT_RXD3.jpg?raw=true" />
+
 ---
 
 # The information contained in [1, 4-14] are for the Adafruit MAX31865 board (PT100/PT1000 sensors) with the SKR V1.4 MCU board
